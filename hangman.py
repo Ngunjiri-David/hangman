@@ -1,7 +1,7 @@
 import random
 
 def hangman():
-    words = ['python', 'hangman', 'game', 'programming', 'openai', 'computer']
+    words = ['python', 'hangman', 'game', 'programming', 'random', 'computer']
 
     # Select a random word from the list
     word = random.choice(words)
